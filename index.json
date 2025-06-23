@@ -38,5 +38,13 @@
         "version": "1.0.0",
         "description": "Provides the 'Problems' panel to display linter results from Flake8.",
         "download_url": "https://raw.githubusercontent.com/Stelliro/puffin-plugins/main/zips/linter_ui.zip"
+    },
+    {
+        "id": "python_runner",
+        "name": "Python Runner",
+        "author": "PuffinPy Team",
+        "version": "1.0.0",
+        "description": "Adds functionality to run Python scripts (F5).",
+        "download_url": "https://raw.githubusercontent.com/Stelliro/puffin-plugins/main/zips/python_runner.zip"
     }
 ]
