@@ -1,0 +1,8 @@
+# Ignore common temp files
+*.tmp
+*.bak
+*~
+
+# Ignore local environment
+venv/
+.venv/
