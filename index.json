@@ -22,5 +22,13 @@
         "version": "1.0.0",
         "description": "Adds a Find/Replace dialog (Ctrl+F).",
         "download_url": "https://raw.githubusercontent.com/Stelliro/puffin-plugins/main/zips/find_replace.zip"
+    },
+    {
+        "id": "github_tools",
+        "name": "GitHub Tools",
+        "author": "PuffinPy Team",
+        "version": "1.0.0",
+        "description": "Provides UI for cloning, releases, and other GitHub interactions.",
+        "download_url": "https://raw.githubusercontent.com/Stelliro/puffin-plugins/main/zips/github_tools.zip"
     }
 ]
