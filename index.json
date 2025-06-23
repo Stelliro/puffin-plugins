@@ -14,5 +14,13 @@
         "version": "1.0.0",
         "description": "A simple example plugin that adds a menu item to log a message.",
         "download_url": "https://raw.githubusercontent.com/Stelliro/puffin-plugins/main/zips/example_plugin.zip"
+    },
+    {
+        "id": "find_replace",
+        "name": "Find/Replace",
+        "author": "PuffinPy Team",
+        "version": "1.0.0",
+        "description": "Adds a Find/Replace dialog (Ctrl+F).",
+        "download_url": "https://raw.githubusercontent.com/Stelliro/puffin-plugins/main/zips/find_replace.zip"
     }
 ]
