@@ -6,5 +6,13 @@
         "version": "1.0.0",
         "description": "Adds an 'Export for AI' dialog.",
         "download_url": "https://raw.githubusercontent.com/Stelliro/puffin-plugins/main/zips/ai_tools.zip"
+    },
+    {
+        "id": "example_plugin",
+        "name": "Example Logger Plugin",
+        "author": "PuffinPy Team",
+        "version": "1.0.0",
+        "description": "A simple example plugin that adds a menu item to log a message.",
+        "download_url": "https://raw.githubusercontent.com/Stelliro/puffin-plugins/main/zips/example_plugin.zip"
     }
 ]
