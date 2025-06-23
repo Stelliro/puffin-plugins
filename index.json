@@ -1,1 +1,10 @@
-[]
+[
+    {
+        "id": "ai_tools",
+        "name": "AI Tools",
+        "author": "PuffinPy Team",
+        "version": "1.0.0",
+        "description": "Adds an 'Export for AI' dialog.",
+        "download_url": "https://raw.githubusercontent.com/Stelliro/puffin-plugins/main/zips/ai_tools.zip"
+    }
+]
