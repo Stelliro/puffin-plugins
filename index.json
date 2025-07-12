@@ -96,14 +96,6 @@
         "download_url": "https://raw.githubusercontent.com/Stelliro/puffin-plugins/main/zips/markdown_viewer.zip"
     },
     {
-        "id": "plugin_publisher",
-        "name": "Plugin Publisher",
-        "author": "AI Assistant",
-        "version": "1.0.1",
-        "description": "Provides a tool to package and publish installed plugins to a specified GitHub distribution repository. Manages versioning and updates the repository's index.json.",
-        "download_url": "https://raw.githubusercontent.com/Stelliro/puffin-plugins/main/zips/plugin_publisher.zip"
-    },
-    {
         "id": "script_runner",
         "name": "Script Runner",
         "author": "PuffinPy Team",
@@ -158,5 +150,13 @@
         "version": "1.0.0",
         "description": "A developer tool to quickly scaffold new plugins for PuffinPyEditor.",
         "download_url": "https://raw.githubusercontent.com/Stelliro/puffin-plugins/main/zips/plugin_initializer.zip"
+    },
+    {
+        "id": "plugin_publisher",
+        "name": "Plugin Publisher",
+        "author": "AI Assistant",
+        "version": "1.0.2",
+        "description": "Provides a tool to package and publish installed plugins to a specified GitHub distribution repository. Manages versioning and updates the repository's index.json.",
+        "download_url": "https://raw.githubusercontent.com/Stelliro/puffin-plugins/main/zips/plugin_publisher.zip"
     }
 ]
